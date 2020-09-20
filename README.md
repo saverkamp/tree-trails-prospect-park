@@ -16,4 +16,4 @@ You will need to install the following Python libraries (all available with pip)
 - jsonlines
 - spacy  
 
-If you want to skip directly to installing and loading the data, follow the instructions in [importing-database-data.md](importing-database-data.md).
+If you want to skip directly to installing and loading the [data](https://github.com/saverkamp/tree-trails-prospect-park/data), follow the instructions in [importing-database-data.md](importing-database-data.md).

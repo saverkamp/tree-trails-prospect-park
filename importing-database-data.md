@@ -1,5 +1,7 @@
 # Importing data into Memento or Airtable
 
+Data can be generated through the Python code in the [tree_trails_prospect_park.ipynb notebook](tree_trails_prospect_park.ipynb) or downloaded directly from the data/ directory of this repository. For Airtable, you can simply make a copy of [this database](https://airtable.com/shrdBZbluYxYIeO5d). 
+
 ## Importing data into Memento
 Before starting you should have ready the two datasets for import, tree_species.csv and tree_trails.csv.  
 

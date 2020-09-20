@@ -1,4 +1,4 @@
-# tree-trails-prospect-park
+# Tree Trails in Prospect Park
 
 __Tree Trails in Prospect Park__, by George Kalmbacher and M. M. Graff, published by Greensward Foundation, was a 1968 book of four walking tours through Brooklyn's Prospect Park. The book is [freely available](https://www.echonyc.com/~parks/books/treetrailsppk.html) on the Greensward Foundation website, and while the text paints a vivid picture of the varied landscape of Prospect Park, sometimes actual pictures are helpful for beginners just starting their journey in tree identification.   
 

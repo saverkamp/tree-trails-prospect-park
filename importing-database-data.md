@@ -52,6 +52,7 @@ You will probably find it easier to create the database on the desktop version a
 |-------------------|------------------|
 | Species           | Single line text |
 | Common names      | Long text        |
+| Images 			| URL			   |
 | Wikipedia         | URL              |
 | Wikimedia Commons | URL              |
 | iNaturalist       | URL              |  

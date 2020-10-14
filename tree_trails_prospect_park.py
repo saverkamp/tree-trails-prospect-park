@@ -29,6 +29,8 @@ import time
 from lxml import etree as et
 import jsonlines
 import re
+import spacy
+from spacy.pipeline import EntityRuler
 
 
 # ## Get a list of tree species
@@ -477,9 +479,6 @@ for t in typos:
 
 # ### Locate species in text
 # This step uses Spacy's [EntityRuler](https://spacy.io/usage/rule-based-matching#entityruler) for rule-based matching on the patterns we created above in the patterns.jsonl file. In this NLP pipeline, we will also identify sentences, so we can group them into paragraphs.
-
-import spacy
-from spacy.pipeline import EntityRuler
 
 #create a blank SpaCy pipeline
 nlp = spacy.blank('en')
